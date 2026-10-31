@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>New News · Tech Radar hằng ngày</title>
+  <meta name="description" content="Bản tin xu hướng công nghệ và công cụ lập trình, cập nhật lúc 6h sáng mỗi ngày.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="./">new-news<span class="cursor">_</span></a>
+      <span class="tag">tech radar · 06:00 ICT mỗi ngày</span>
+      <button id="theme" class="theme" aria-label="Đổi giao diện sáng tối">◐</button>
+    </div>
+  </header>
+
+  <div class="wrap layout">
+    <aside class="side">
+      <input id="search" type="search" placeholder="Lọc theo ngày hoặc từ khóa" aria-label="Tìm kiếm">
+      <nav id="list" class="list" aria-label="Danh sách bản tin"></nav>
+    </aside>
+    <main id="post" class="post">
+      <p class="muted">Đang tải bản tin...</p>
+    </main>
+  </div>
+
+  <footer class="wrap foot muted">Nội dung được tổng hợp tự động mỗi sáng. Luôn kiểm tra lại trên docs chính thức trước khi áp dụng vào production.</footer>
+
+  <script src="assets/md.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
