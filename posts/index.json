@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "date": "2026-11-01",
+    "title": "Node.js 26 lên LTS và loạt bản vá bảo mật TLS/DNS",
+    "file": "2026-11-01.md",
+    "tags": ["nodejs", "security", "nestjs", "nextjs", "lightpanda", "docker"]
+  }
+]
