@@ -1,8 +1,27 @@
 [
   {
+    "date": "2026-11-02",
+    "title": "FastAPI 0.162 đổi cách xử lý boolean form, NestJS 12.2 siết giới hạn đầu vào",
+    "file": "2026-11-02.md",
+    "tags": [
+      "fastapi",
+      "nestjs",
+      "laravel",
+      "typescript",
+      "ai-tools"
+    ]
+  },
+  {
     "date": "2026-11-01",
     "title": "Node.js 26 lên LTS và loạt bản vá bảo mật TLS/DNS",
     "file": "2026-11-01.md",
-    "tags": ["nodejs", "security", "nestjs", "nextjs", "lightpanda", "docker"]
+    "tags": [
+      "nodejs",
+      "security",
+      "nestjs",
+      "nextjs",
+      "lightpanda",
+      "docker"
+    ]
   }
 ]
