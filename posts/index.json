@@ -7,8 +7,8 @@
       "fastapi",
       "nestjs",
       "laravel",
-      "typescript",
-      "ai-tools"
+      "ai",
+      "prompting"
     ]
   },
   {
