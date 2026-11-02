@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-03",
+    "title": "Next.js sắp có bản vá bảo mật, Redis vá lỗi cluster bus, PostgreSQL 19 vào RC",
+    "file": "2026-11-03.md",
+    "tags": [
+      "nextjs",
+      "redis",
+      "postgresql",
+      "security",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-02",
     "title": "FastAPI 0.162 đổi cách xử lý boolean form, NestJS 12.2 siết giới hạn đầu vào",
     "file": "2026-11-02.md",
