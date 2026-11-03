@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-04",
+    "title": "Next.js 16.4.5 và 15.5.29 vá 7 lỗi cache và response injection",
+    "file": "2026-11-04.md",
+    "tags": [
+      "nextjs",
+      "security",
+      "caching",
+      "agents",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-03",
     "title": "Next.js sắp có bản vá bảo mật, Redis vá lỗi cluster bus, PostgreSQL 19 vào RC",
     "file": "2026-11-03.md",
