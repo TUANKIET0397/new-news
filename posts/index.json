@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-06",
+    "title": "Node.js 27 alpha đổi nhiều default, 5 ngày nữa là security release",
+    "file": "2026-11-06.md",
+    "tags": [
+      "nodejs",
+      "security",
+      "caching",
+      "agents",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-05",
     "title": "Node.js báo trước bản vá bảo mật mức High ngày 11/11, spec-driven development lên trending",
     "file": "2026-11-05.md",
