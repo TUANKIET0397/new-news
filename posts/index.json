@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-07",
+    "title": "V8 15.6 trong Node.js 27 alpha đổi serialization và heap, Claude Code 2.1.319 vá lỗi bypass permission",
+    "file": "2026-11-07.md",
+    "tags": [
+      "nodejs",
+      "v8",
+      "security",
+      "claude-code",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-06",
     "title": "Node.js 27 alpha đổi nhiều default, 5 ngày nữa là security release",
     "file": "2026-11-06.md",
