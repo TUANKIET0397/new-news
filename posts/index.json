@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-08",
+    "title": "Cloudflare mở skill audit bảo mật cho coding agent, Laravel 13.40 và V8 15.6 trong Node.js 27",
+    "file": "2026-11-08.md",
+    "tags": [
+      "security",
+      "laravel",
+      "nodejs",
+      "agents",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-06",
     "title": "Node.js 27 alpha đổi nhiều default, 5 ngày nữa là security release",
     "file": "2026-11-06.md",
