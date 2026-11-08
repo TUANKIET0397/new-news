@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-09",
+    "title": "vercel-labs/agent-browser, proxy nén context billion-context và 2 ngày nữa là security release Node.js",
+    "file": "2026-11-09.md",
+    "tags": [
+      "agents",
+      "nodejs",
+      "security",
+      "context",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-08",
     "title": "Cloudflare mở skill audit bảo mật cho coding agent, Laravel 13.40 và V8 15.6 trong Node.js 27",
     "file": "2026-11-08.md",
