@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-10",
+    "title": "Claude Fable 5.2 ra mắt, Claude Code 2.1.321 vá lỗi lộ token MCP OAuth, mai Node.js phát hành bản vá",
+    "file": "2026-11-10.md",
+    "tags": [
+      "claude",
+      "security",
+      "nodejs",
+      "agents",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-09",
     "title": "vercel-labs/agent-browser, proxy nén context billion-context và 2 ngày nữa là security release Node.js",
     "file": "2026-11-09.md",
