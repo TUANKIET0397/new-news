@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-11",
+    "title": "Hôm nay là ngày Node.js vá lỗi High, agent-skills của Addy Osmani và Topcoat của tokio-rs lên trending",
+    "file": "2026-11-11.md",
+    "tags": [
+      "nodejs",
+      "security",
+      "agents",
+      "rust",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-10",
     "title": "Claude Fable 5.2 ra mắt, Claude Code 2.1.321 vá lỗi lộ token MCP OAuth, mai Node.js phát hành bản vá",
     "file": "2026-11-10.md",
