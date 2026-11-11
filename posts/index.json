@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-12",
+    "title": "Node.js 26.13.1, 24.22.3, 22.23.5 đã ra với 7 lỗi High, Laravel 12.72 vá bypass signed URL",
+    "file": "2026-11-12.md",
+    "tags": [
+      "nodejs",
+      "security",
+      "laravel",
+      "agents",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-11",
     "title": "Hôm nay là ngày Node.js vá lỗi High, agent-skills của Addy Osmani và Topcoat của tokio-rs lên trending",
     "file": "2026-11-11.md",
