@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-13",
+    "title": "PostgreSQL 18.7 vá 52 CVE, 14.25 là bản cuối của dòng 14",
+    "file": "2026-11-13.md",
+    "tags": [
+      "postgresql",
+      "security",
+      "nextjs",
+      "agents",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-12",
     "title": "Node.js 26.13.1, 24.22.3, 22.23.5 đã ra với 7 lỗi High, Laravel 12.72 vá bypass signed URL",
     "file": "2026-11-12.md",
