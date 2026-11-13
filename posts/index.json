@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-14",
+    "title": "NestJS 12.5 hạ giới hạn WebSocket xuống 1 MB, FastAPI 0.162.6 bỏ Python 3.10",
+    "file": "2026-11-14.md",
+    "tags": [
+      "nestjs",
+      "fastapi",
+      "backpressure",
+      "evals",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-13",
     "title": "PostgreSQL 18.7 vá 52 CVE, 14.25 là bản cuối của dòng 14",
     "file": "2026-11-13.md",
