@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-15",
+    "title": "Node.js 27 alpha gom các dns.lookup trùng nhau, Redis 8.12 RC3 vá lỗi TLS session resumption",
+    "file": "2026-11-15.md",
+    "tags": [
+      "nodejs",
+      "redis",
+      "caching",
+      "agents",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-14",
     "title": "NestJS 12.5 hạ giới hạn WebSocket xuống 1 MB, FastAPI 0.162.6 bỏ Python 3.10",
     "file": "2026-11-14.md",
