@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-16",
+    "title": "AG-UI chuẩn hóa luồng event giữa agent và frontend, Vue 3.6 RC15 sửa hàng loạt lỗi computed",
+    "file": "2026-11-16.md",
+    "tags": [
+      "ag-ui",
+      "vue",
+      "nextjs",
+      "sse",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-15",
     "title": "Node.js 27 alpha gom các dns.lookup trùng nhau, Redis 8.12 RC3 vá lỗi TLS session resumption",
     "file": "2026-11-15.md",
