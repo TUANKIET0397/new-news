@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-17",
+    "title": "FastAPI 0.163 thêm Depends(max_concurrency=...), Mongoose vá lỗ hổng bypass sanitizeFilter trên cả 4 nhánh",
+    "file": "2026-11-17.md",
+    "tags": [
+      "fastapi",
+      "mongoose",
+      "security",
+      "concurrency",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-16",
     "title": "AG-UI chuẩn hóa luồng event giữa agent và frontend, Vue 3.6 RC15 sửa hàng loạt lỗi computed",
     "file": "2026-11-16.md",
