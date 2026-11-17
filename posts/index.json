@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-18",
+    "title": "Laravel 13.43 và 12.73 vá loạt lỗi bảo mật, Docker Compose 5.8 chạy cron job ngay trong compose.yaml",
+    "file": "2026-11-18.md",
+    "tags": [
+      "laravel",
+      "docker",
+      "security",
+      "queue",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-17",
     "title": "FastAPI 0.163 thêm Depends(max_concurrency=...), Mongoose vá lỗ hổng bypass sanitizeFilter trên cả 4 nhánh",
     "file": "2026-11-17.md",
