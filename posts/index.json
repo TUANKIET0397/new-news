@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-20",
+    "title": "PostgreSQL 19 chính thức ra mắt với REPACK (CONCURRENTLY) và WAIT FOR LSN, FastAPI 0.164 thêm giới hạn kích thước body",
+    "file": "2026-11-20.md",
+    "tags": [
+      "postgresql",
+      "fastapi",
+      "replication",
+      "nextjs",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-19",
     "title": "pnpm 12.22 vá lỗ hổng bỏ qua kiểm tra supply chain, Hono 4.13.18 vá 4 lỗi bypass validator và middleware",
     "file": "2026-11-19.md",
