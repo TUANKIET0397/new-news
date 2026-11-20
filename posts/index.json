@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-21",
+    "title": "NestJS 12.6 thêm graceful shutdown cho WebSocket và gRPC, loạt MCP server local dính lỗi DNS rebinding",
+    "file": "2026-11-21.md",
+    "tags": [
+      "nestjs",
+      "mcp",
+      "security",
+      "dns-rebinding",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-20",
     "title": "PostgreSQL 19 chính thức ra mắt với REPACK (CONCURRENTLY) và WAIT FOR LSN, FastAPI 0.164 thêm giới hạn kích thước body",
     "file": "2026-11-20.md",
