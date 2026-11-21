@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-22",
+    "title": "undici 8.13 thôi tái sử dụng socket keep-alive đã hết hạn, Drizzle ORM 1.0 RC6 bỏ codec khỏi driver",
+    "file": "2026-11-22.md",
+    "tags": [
+      "undici",
+      "drizzle",
+      "bullmq",
+      "keep-alive",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-21",
     "title": "NestJS 12.6 thêm graceful shutdown cho WebSocket và gRPC, loạt MCP server local dính lỗi DNS rebinding",
     "file": "2026-11-21.md",
