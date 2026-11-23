@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-24",
+    "title": "Valkey 9.2 GA với INCREX và DELEX, cả 4 nhánh cũ nhận bản vá use-after-free",
+    "file": "2026-11-24.md",
+    "tags": [
+      "valkey",
+      "prisma",
+      "docker",
+      "distributed-lock",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-23",
     "title": "PHP 8.6 ra mắt kèm đợt vá 14 lỗ hổng cho 8.2 đến 8.5, nginx 1.31.9 vá 10 CVE",
     "file": "2026-11-23.md",
