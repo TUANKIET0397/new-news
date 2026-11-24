@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-25",
+    "title": "Laravel vá lỗi DoS bằng JSON request cho nhánh 12.x, pnpm 12.23 siết credential và dependency local",
+    "file": "2026-11-25.md",
+    "tags": [
+      "laravel",
+      "pnpm",
+      "hono",
+      "security",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-24",
     "title": "Valkey 9.2 GA với INCREX và DELEX, cả 4 nhánh cũ nhận bản vá use-after-free",
     "file": "2026-11-24.md",
