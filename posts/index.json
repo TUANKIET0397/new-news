@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-26",
+    "title": "NestJS 12.6.2 thêm nack về dead letter cho RabbitMQ, redis-py 8.2 cho chọn key nào được cache phía client",
+    "file": "2026-11-26.md",
+    "tags": [
+      "nestjs",
+      "rabbitmq",
+      "redis",
+      "security",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-25",
     "title": "Laravel vá lỗi DoS bằng JSON request cho nhánh 12.x, pnpm 12.23 siết credential và dependency local",
     "file": "2026-11-25.md",
