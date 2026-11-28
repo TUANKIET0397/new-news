@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-11-28",
+    "title": "NestJS 12.6.3 tạo 404 không kèm stack trace, pnpm 12.24 đọc tarball giống hệt npm",
+    "file": "2026-11-28.md",
+    "tags": [
+      "nestjs",
+      "pnpm",
+      "undici",
+      "vite",
+      "ai",
+      "prompting"
+    ]
+  },
+  {
     "date": "2026-11-26",
     "title": "NestJS 12.6.2 thêm nack về dead letter cho RabbitMQ, redis-py 8.2 cho chọn key nào được cache phía client",
     "file": "2026-11-26.md",
